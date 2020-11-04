@@ -9,11 +9,11 @@ Practice of Visualization and docker
 
 3.pip install pip virtualenv
 
-4.Create a virtual environment,under the directory of project,download the packeget in requirements.txt for creating a new environment
+4.Create a virtual environment,under the directory of project
 
-5.activate the envronment in terminal 
+5.activate the envronment in terminal ,,download the packeget in requirements.txt for creating a new environment use pip.
 
-6.under this new environment, input "Bokeh serve --show INF560HW5.py"
+6.under this new environment, input "Bokeh serve --show INF560HW5.py" in terminal
 
 7.It will pop out a webpage of this visualization.
 
