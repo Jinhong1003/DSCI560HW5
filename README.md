@@ -39,4 +39,4 @@ Practice of Visualization and docker
 
 7.Browse the website "http://localhost:5006/INF560HW5",  Our visualization will be showed.
 
-Congretuations!
+Congratuations!
